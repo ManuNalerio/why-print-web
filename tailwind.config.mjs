@@ -8,7 +8,7 @@ export default {
 				'cyber-card': '#16161A',
 				'cyber-accent': '#C026D3',
 				'cyber-purple': '#7000FF',
-				'cyber-text': '#E2E2E7',
+				'cyber-text': '#e7e2e2',
                 
 			},
 			fontFamily: {
